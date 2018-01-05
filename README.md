@@ -2,8 +2,10 @@
 ### chrome_plugins
 
 ### 声明
-本扩展程序始终是免费的，没有任何类型的广告以及跟踪算法。 该扩展程序不定期更新，请关注下列网站以保证获取最新的扩展程序。 
+本扩展程序始终是免费的，没有任何类型的广告以及跟踪算法。 该扩展程序不定期更新，请关注下列网站以保证获取最新的扩展程序。
+</br>
 Github: https://github.com/jsxiao/chrome_plugins 
+</br>
 开源中国: https://gitee.com/web2_iamxiaojs/chrome_plugins 
 
 本插件安装之后，您就可以畅游百度了。目前可屏蔽：
