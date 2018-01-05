@@ -13,6 +13,10 @@ Github: https://github.com/jsxiao/chrome_plugins
 2. 百度贴吧帖子列表广告
 3. 百度贴吧帖子详情广告 
 
+### 捐赠
+![alipay](https://gitee.com/uploads/images/2018/0105/171817_f2562632_1594524.png "alipay.png")
+![wechat](https://gitee.com/uploads/images/2018/0105/171839_cfe086de_1594524.png "wechat.png")
+
 该程序不定期更新。 
 Chrome插件开发，联系方式：iamxiaojs@hotmail.com
 
