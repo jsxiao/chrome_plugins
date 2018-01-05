@@ -1,5 +1,6 @@
 # 百度广告屏蔽插件
 ### chrome_plugins
+## [点此下载](https://github.com/jsxiao/chrome_plugins/blob/master/spoof_baidu.crx?raw=true)
 
 ### 声明
 本扩展程序始终是免费的，没有任何类型的广告以及跟踪算法。 该扩展程序不定期更新，请关注下列网站以保证获取最新的扩展程序。
