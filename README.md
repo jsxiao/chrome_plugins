@@ -15,3 +15,5 @@ Github: https://github.com/jsxiao/chrome_plugins
 
 该程序不定期更新。 
 Chrome插件开发，联系方式：iamxiaojs@hotmail.com
+
+## [点此下载](https://gitee.com/web2_iamxiaojs/chrome_plugins/blob/master/spoof_baidu.crx)
